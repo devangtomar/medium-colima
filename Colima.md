@@ -36,3 +36,19 @@ It will start the docker daemon in the VM and configure the docker CLI on the ho
 - Volume mounts
 - Kubernetes
 
+**Changing VM size 🛐**
+
+The default VM may be on a tiny side, especially if you opt to run Kubernetes as well.
+
+To give your VM greater resources, use
+
+colima stop
+
+followed by
+
+colima start — cpu 6 — memory 6.
+
+This will provide your **Colima VM 6 CPU cores and 6GB of RAM**. You can get a full list of options by simply running colima and pressing enter.
+
+*More about that here : [https://github.com/abiosoft/colima#customizing-the-vm*](https://github.com/abiosoft/colima#customizing-the-vm)*
+
