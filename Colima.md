@@ -10,3 +10,29 @@ It’s a command line program that builds on top of lima to give a more convenie
 
 **GitHub Repository link 🔐**
 
+<https://github.com/abiosoft/colima>
+
+**Intro GIF 📌**
+
+**Installation and Setup ⚙️**
+
+Installation is easy and can be done through Homebrew:
+
+brew install colima
+
+To start the VM we run:
+
+colima start
+
+
+It will start the docker daemon in the VM and configure the docker CLI on the host. The usage in macOS is no different from Docker Desktop, and all docker commands should work as before.
+
+**Features 💯**
+
+- Intel and M1 Macs support
+- Simple CLI interface
+- Docker and Containerd support
+- Port Forwarding
+- Volume mounts
+- Kubernetes
+
