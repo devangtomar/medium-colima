@@ -52,3 +52,17 @@ This will provide your **Colima VM 6 CPU cores and 6GB of RAM**. You can get a 
 
 *More about that here : [https://github.com/abiosoft/colima#customizing-the-vm*](https://github.com/abiosoft/colima#customizing-the-vm)*
 
+**Kubernetes ☸️**
+
+**kubectl** is required for Kubernetes. Installable with
+
+brew install kubectl
+
+To enable Kubernetes, start Colima with --with-kubernetes flag.
+
+colima start --with-kubernetes
+
+**More Usage options 📜**
+
+colima --help
+
