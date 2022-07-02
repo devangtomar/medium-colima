@@ -66,3 +66,13 @@ colima start --with-kubernetes
 
 colima --help
 
+**Conclusion 💁🏻‍♂️**
+
+When I ran docker containers, I didn’t detect any difference, and all docker commands functioned as before, which is excellent because none of my build scripts had to be altered.
+
+This is a fairly young initiative with a lot of potential. A lot is happening, and the option to construct alternative Colima VMs that operate on different architectures is now in the code base. You may, for example, run arm64 Docker images on your amd64-based Mac or vice versa.
+
+Colima is a young but promising project that can easily replace Docker Desktop, and if you are a Docker user, I highly recommend giving it a try and offering input if you so choose. It is capable of running Docker containers, docker-compose-based programs, Kubernetes, and building images.
+
+Please share your opinions about Podman and this topic in the comments section.
+
