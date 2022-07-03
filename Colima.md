@@ -76,3 +76,13 @@ Colima is a young but promising project that can easily replace Docker Desktop, 
 
 Please share your opinions about Podman and this topic in the comments section.
 
+**Let’s connect and chat! Open to anything under the sun 🏖️🍹**
+
+Twitter : [devangtomar7](https://twitter.com/devangtomar7)
+LinkedIn : [devangtomar](https://www.linkedin.com/in/devangtomar)
+Stackoverflow : [devangtomar](https://stackoverflow.com/users/8198097/devangtomar)
+Instagram : [be_ayushmann](https://instagram.com/be_ayushmann)
+Medium :
+
+[Devang Tomar](https://medium.com/u/8f5e1c86129d?source=post_page-----e42119a306ca--------------------------------)
+
